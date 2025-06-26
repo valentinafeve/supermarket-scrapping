@@ -1,0 +1,5 @@
+selenium
+oci
+Pillow
+requests
+datasets
